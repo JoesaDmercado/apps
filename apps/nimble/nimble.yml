@@ -1,6 +1,7 @@
-name: Nimble
+DJM: Nimble
 description: 'A simple but powerful Wolfram|Alpha menubar client for macOS'
 website: 'https://maybulb.com/nimble/'
 keywords:
     - menubar
 category: Utilities
+new branch:
